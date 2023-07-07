@@ -1,0 +1,15 @@
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/bin/Debug/net7.0/vn_mode_csharp_dz47
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/bin/Debug/net7.0/vn_mode_csharp_dz47.deps.json
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/bin/Debug/net7.0/vn_mode_csharp_dz47.runtimeconfig.json
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/bin/Debug/net7.0/vn_mode_csharp_dz47.dll
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/bin/Debug/net7.0/vn_mode_csharp_dz47.pdb
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.csproj.AssemblyReference.cache
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.AssemblyInfoInputs.cache
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.AssemblyInfo.cs
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.csproj.CoreCompileInputs.cache
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.dll
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/refint/vn_mode_csharp_dz47.dll
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.pdb
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/vn_mode_csharp_dz47.genruntimeconfig.cache
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz47/vn_mode_csharp_dz47/obj/Debug/net7.0/ref/vn_mode_csharp_dz47.dll
