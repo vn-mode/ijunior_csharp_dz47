@@ -3,23 +3,38 @@ using System.Linq;
 
 class Soldier
 {
-    public string Name { get; set; }
-    public int Health { get; set; }
+    public string Name { get; private set; }
+    public int Health { get; private set; }
 
     public Soldier(string name, int health)
     {
         Name = name;
         Health = health;
     }
+
+    public void Attack(Soldier enemy)
+    {
+        enemy.TakeDamage(1);
+    }
+
+    private void TakeDamage(int damage)
+    {
+        Health -= damage;
+    }
 }
 
 class Squad
 {
-    public Soldier[] Soldiers { get; set; }
+    public Soldier[] Soldiers { get; private set; }
 
     public Squad(Soldier[] soldiers)
     {
         Soldiers = soldiers;
+    }
+
+    public void RemoveSoldier(Soldier soldier)
+    {
+        Soldiers = Soldiers.Where(s => s != soldier).ToArray();
     }
 }
 
@@ -46,12 +61,12 @@ class BattleSimulator
             Soldier defender = squadTwo.Soldiers[new Random().Next(0, squadTwo.Soldiers.Length)];
 
             Console.WriteLine(attacker.Name + " атакует " + defender.Name + "!");
-            defender.Health -= 1;
+            attacker.Attack(defender);
 
             if (defender.Health <= 0)
             {
                 Console.WriteLine(defender.Name + SoldierEliminatedMessage);
-                squadTwo.Soldiers = squadTwo.Soldiers.Where(soldier => soldier != defender).ToArray();
+                squadTwo.RemoveSoldier(defender);
             }
 
             Squad temp = squadOne;
